@@ -1,5 +1,6 @@
 # CPE213_project
 โปรเจ็คนี้เป็นส่วนหนึ่งของรายวิชา CPE213 Data model จัดทำโดย นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปี 3 มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
+
 ### Developer Team
 Member in team : 'PMammothSangLuis team' 
 > * :woman: Ms.Natchariya Wongamnuayporn 61070507204
@@ -8,24 +9,19 @@ Member in team : 'PMammothSangLuis team'
 > * :man: Ms.Sahassawas Srichan 61070507223
 > * :man: Ms.Thanachart Wongkum 61070507228
 
-
 # :memo: Project Description 
-<p align="center"> ...coming soon... </p>
+โรคหัวใจและหลอดเลือด เป็นกลุ่มโรคที่เกิดกับระบบหัวใจและหลอด เลือดซึ่งเป็นสาเหตุการเสียชีวิตลำดับต้นของคนไทย ในแต่ละปีจะมีคนไทยเสียชีวิตจากโรคนี้ถึง 54,530 รายและมีแนวโน้มเพิ่มสูงขึ้นทุกปี โดยสามในสี่ของการเสียชีวิตด้วยโรคหัวใจและหลอดเลือดทั้งหมดเกิดจากโรค หลอดเลือดสมอง และโรคหัวใจขาดเลือด ซึ่ง เกิดจากการที่หลอดเลือดตีบตันหรือขาดความยืดหยุ่น จากการสะสมของไขมัน โปรตีน และแร่ธาตุที่บริเวณ ผนังหลอดเลือด
 
-# :clipboard: Data Model 
-<p align="center"> ...coming soon... </p>
+ในปัจจุบันมีการตรวจคัดกรองสุขภาพโดยค้นหาปัจจัยเสี่ยงในการเกิดโรคดังกล่าวด้วยการประเมิน ความเสี่ยงโดยรวม ซึ่งเป็นการประเมินปัจจัยเสี่ยงหลายปัจจัยพร้อมๆ กันเพื่อทำนายโอกาสเกิดโรคภายในอนาคตข้างหน้า โดยปัจจัยเสี่ยงที่สำคัญและมีหลักฐานทางวิชาการว่าสัมพันธ์กับการเกิดโรคหัวใจและหลอดเลือด สามารถแบ่งได้เป็น 2 ประเภท ประเภทแรกคือ ปัจจัยเสี่ยงที่ปรับเปลี่ยนไม่ได้ เช่น อายุ เพศ ประวัติครอบครัว และ เชื้อชาติ ประเภทที่สองเป็นปัจจัยเสี่ยงที่ปรับเปลี่ยนได้ เช่น ความดันโลหิตสูง ระดับไขมันชนิดโคเลสเตอรอลรวมสูง ระดับไขมันชนิดเอชดีแอลต่างระดับน้ำตาลในเลือดสูง ภาวะอ้วนและ การสูบบุหรี่อีกทั้งการเป็นโรคร่วม ได้แก่ โรคไตเรื้อรัง โรคหัวใจเต้นผิดจังหวะชนิดโรคข้ออักเสบรูมาตอยด์ และภาวะหัวใจห้องล่างซ้ายโตก็เป็นปัจจัยเสี่ยงต่อการเกิดโรคหัวใจและหลอดเลือดได้ เช่นกัน
 
-# :chart_with_upwards_trend: Vitualization
-### Dashboard in project  
-<p align="center"> ...coming soon... </p>
-
-### :globe_with_meridians: :desktop_computer: Link to Dashboard 
-<p align="center"> ...coming soon... </p>
+:globe_with_meridians: :desktop_computer: Link VDO presentation  : ``` https://youtu.be/ffAzTeNfonY ```
 
 # :gear: Tools in Project
-<p align="center"> ...coming soon... </p>
+- [X] Google Colab 
+- [X] R studio for Visualization
+- [X] Canva for Slide Presentation
 
   
 # :hammer_and_wrench: Built With 
-<p align="center"> ...coming soon... </p>
+- [X] Google Colab 
   
