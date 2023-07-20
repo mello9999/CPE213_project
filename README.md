@@ -5,9 +5,9 @@
 Member in team : 'PMammothSangLuis team' 
 > * :woman: Ms.Natchariya Wongamnuayporn 61070507204
 > * :man: Mr.Natchapol Patamawisut 61070507205
-> * :man: Ms.Rungwigrai Payakkanuwat 61070507219
-> * :man: Ms.Sahassawas Srichan 61070507223
-> * :man: Ms.Thanachart Wongkum 61070507228
+> * :man: Mr.Rungwigrai Payakkanuwat 61070507219
+> * :man: Mr.Sahassawas Srichan 61070507223
+> * :man: Mr.Thanachart Wongkum 61070507228
 
 # :memo: Project Description 
 โรคหัวใจและหลอดเลือด เป็นกลุ่มโรคที่เกิดกับระบบหัวใจและหลอด เลือดซึ่งเป็นสาเหตุการเสียชีวิตลำดับต้นของคนไทย ในแต่ละปีจะมีคนไทยเสียชีวิตจากโรคนี้ถึง 54,530 รายและมีแนวโน้มเพิ่มสูงขึ้นทุกปี โดยสามในสี่ของการเสียชีวิตด้วยโรคหัวใจและหลอดเลือดทั้งหมดเกิดจากโรค หลอดเลือดสมอง และโรคหัวใจขาดเลือด ซึ่ง เกิดจากการที่หลอดเลือดตีบตันหรือขาดความยืดหยุ่น จากการสะสมของไขมัน โปรตีน และแร่ธาตุที่บริเวณ ผนังหลอดเลือด
